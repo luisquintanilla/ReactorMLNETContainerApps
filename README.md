@@ -1,5 +1,5 @@
 # ReactorMLNETContainerApps
-Source code and resources for Reactor session "Depoy ML.NET Models to Azure Container Apps"
+Source code and resources for Reactor session "Deploy ML.NET Models to Azure Container Apps"
 
 - [Resources](http://lqdev.me/presentations/reactor-mlnet-container-apps.html)
 - [Slides](./DeployMLNETModelsAzureContainerApps.pdf)
