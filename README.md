@@ -4,6 +4,8 @@ Source code and resources for Reactor session "Depoy ML.NET Models to Azure Cont
 - [Resources](http://lqdev.me/presentations/reactor-mlnet-container-apps.html)
 - [Slides](./DeployMLNETModelsAzureContainerApps.pdf)
 
+For a Spanish version of the talk, see [Implementacion de modelos ML.NET con Azure Container Apps](http://lqdev.me/presentations/mlnet-globalai-2022.html)
+
 ## Project Info
 
 - **SentimentModelWebAPI**: ASP.NET Core Web API that hosts an ML.NET sentiment analysis model
